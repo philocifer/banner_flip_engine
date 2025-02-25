@@ -184,6 +184,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "anthropic" },
     { name = "chainlit" },
+    { name = "chroma" },
     { name = "chromadb" },
     { name = "geopy" },
     { name = "ipykernel" },
@@ -207,6 +208,7 @@ dependencies = [
 requires-dist = [
     { name = "anthropic", specifier = ">=0.46.0" },
     { name = "chainlit", specifier = ">=2.2.1" },
+    { name = "chroma", specifier = ">=0.2.0" },
     { name = "chromadb", specifier = ">=0.6.3" },
     { name = "geopy", specifier = ">=2.4.1" },
     { name = "ipykernel", specifier = ">=6.29.5" },
@@ -391,6 +393,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/15/1f/ca74b65b19798895d
 wheels = [
     { url = "https://files.pythonhosted.org/packages/52/93/342cc62a70ab727e093ed98e02a725d85b746345f05d2b5e5034649f4ec8/chevron-0.14.0-py3-none-any.whl", hash = "sha256:fbf996a709f8da2e745ef763f482ce2d311aa817d287593a5b990d6d6e4f0443", size = 11595 },
 ]
+
+[[package]]
+name = "chroma"
+version = "0.2.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/9f/f0/e747fa78cd8ff7d23a598ab21b79988b759c2248500e0d31f21620cb75f3/Chroma-0.2.0.tar.gz", hash = "sha256:e265bcd503e2b35c4448b83257467166c252ecf3ab610492432780691cdfb286", size = 5790 }
 
 [[package]]
 name = "chroma-hnswlib"
