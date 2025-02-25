@@ -1,0 +1,27 @@
+[project]
+name = "banner-flip-engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.46.0",
+    "chainlit>=2.2.1",
+    "chromadb>=0.6.3",
+    "geopy>=2.4.1",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.19",
+    "langchain-community>=0.3.18",
+    "langchain-core>=0.3.37",
+    "langchain-experimental>=0.3.4",
+    "langchain-huggingface>=0.1.2",
+    "langchain-openai>=0.3.6",
+    "langchain-qdrant>=0.2.0",
+    "langchain-text-splitters>=0.3.6",
+    "langgraph>=0.2.74",
+    "openai>=1.63.2",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.0.1",
+    "sentence-transformers>=3.4.1",
+    "streamlit>=1.42.2",
+]

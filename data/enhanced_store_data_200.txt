@@ -1,0 +1,1200 @@
+STORE ANALYSIS: 1015 Grocery Store (1939592)
+Location: 1200 Private Road 1015, Weslaco
+
+Store 1939592 - 1015 Grocery Store operates as a Open Store Superette establishment at 1200 Private Road 1015, Weslaco, TX 78596 (FIPS 48-215). Geographically precise at coordinates 26.1045,-97.9523 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $702.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 103 Deli & Grocery (970062)
+Location: 148 E 103rd St, New York
+
+Store 970062 - 103 Deli & Grocery operates as a Open Store Superette establishment at 148 E 103rd St, New York, NY 100295334 (FIPS 36-61). Geographically precise at coordinates 40.7902,-73.9476 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,352.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 108 Deli & Grocery (1953018)
+Location: 5314 108th St, Corona
+
+Store 1953018 - 108 Deli & Grocery operates as a Open Store Superette establishment at 5314 108th St, Corona, NY 113683206 (FIPS 36-81). Geographically precise at coordinates 40.7423,-73.8546 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 3 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 111 Food Market (805017)
+Location: 11101 41st Ave, Corona
+
+Store 805017 - 111 Food Market operates as a Open Store Supermarket-Conventional establishment at 11101 41st Ave, Corona, NY 113682621 (FIPS 36-81). Geographically precise at coordinates 40.751,-73.8554 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 2000.0 square foot space. The operation employs 16 full-time staff across 1 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 114th Gourmet Deli & Grill (805951)
+Location: 11321 Jamaica Ave, Richmond Hill
+
+Store 805951 - 114th Gourmet Deli & Grill operates as a Open Store Superette establishment at 11321 Jamaica Ave, Richmond Hill, NY 114182441 (FIPS 36-81). Geographically precise at coordinates 40.6983,-73.835 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 11 full-time staff across 1 checkout lanes, yielding a sales density of $1,820.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1158 Grocery & Deli (1666158)
+Location: 1158 Saint Lawrence Ave, Bronx
+
+Store 1666158 - 1158 Grocery & Deli operates as a Open Store Superette establishment at 1158 Saint Lawrence Ave, Bronx, NY 104724612 (FIPS 36-5). Geographically precise at coordinates 40.8295,-73.8666 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,352.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 12 E 196 St Food (726506)
+Location: 12 E 196th St, Bronx
+
+Store 726506 - 12 E 196 St Food operates as a Open Store Supermarket-Limited Assortment establishment at 12 E 196th St, Bronx, NY 104683570 (FIPS 36-5). Geographically precise at coordinates 40.8689,-73.8955 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 4000.0 square foot space. The operation employs 22 full-time staff across 2 checkout lanes, yielding a sales density of $1,625.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Limited Assortment segment.
+
+================================================================================
+STORE ANALYSIS: 121 Deli (805860)
+Location: 12022 101st Ave, South Richmond Hill
+
+Store 805860 - 121 Deli operates as a Open Store Superette establishment at 12022 101st Ave, South Richmond Hill, NY 114191357 (FIPS 36-81). Geographically precise at coordinates 40.6904,-73.824 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 128 Teresa Grocery (729684)
+Location: 128 Audubon Ave, New York
+
+Store 729684 - 128 Teresa Grocery operates as a Open Store Superette establishment at 128 Audubon Ave, New York, NY 100322109 (FIPS 36-61). Geographically precise at coordinates 40.8427,-73.9369 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 12th Avenue Market & Deli (775095)
+Location: 2620 E 12th Ave, Denver
+
+Store 775095 - 12th Avenue Market & Deli operates as a Open Store Superette establishment at 2620 E 12th Ave, Denver, CO 802063208 (FIPS 8-31). Geographically precise at coordinates 39.7351,-104.9559 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 10 full-time staff across 3 checkout lanes, yielding a sales density of $832.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 12th St Mike Gourmet Deli (879406)
+Location: 1203 40th Ave, Long Island City
+
+Store 879406 - 12th St Mike Gourmet Deli operates as a Open Store Superette establishment at 1203 40th Ave, Long Island City, NY 111016107 (FIPS 36-81). Geographically precise at coordinates 40.7561,-73.9425 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1338 Food Deli Grocery (7269325)
+Location: 1338 Saint Nicholas Ave, New York
+
+Store 7269325 - 1338 Food Deli Grocery operates as a Open Store Superette establishment at 1338 Saint Nicholas Ave, New York, NY 100337213 (FIPS 36-61). Geographically precise at coordinates 40.8466,-73.9355 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 14 Carrot Whole Foods (1627972)
+Location: 5300 Sunset Blvd, Lexington
+
+Store 1627972 - 14 Carrot Whole Foods operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 5300 Sunset Blvd, Lexington, SC 290729260 (FIPS 45-63). Geographically precise at coordinates 34.004,-81.206 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 5000.0 square foot space. The operation employs 37 full-time staff across 2 checkout lanes, yielding a sales density of $520.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 190392, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: 1459 Mia Deli Grocery (1940119)
+Location: 1459 Story Ave, Bronx
+
+Store 1940119 - 1459 Mia Deli Grocery operates as a Open Store Superette establishment at 1459 Story Ave, Bronx, NY 104734912 (FIPS 36-5). Geographically precise at coordinates 40.8215,-73.8802 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 14th Street Market (1637975)
+Location: 1925 Janes Ave, Saginaw
+
+Store 1637975 - 14th Street Market operates as a Open Store Superette establishment at 1925 Janes Ave, Saginaw, MI 486011855 (FIPS 26-145). Geographically precise at coordinates 43.4292,-83.9181 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 5000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $270.40/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1537 Grocery (1827877)
+Location: 1537 Bruckner Blvd, Bronx
+
+Store 1827877 - 1537 Grocery operates as a Open Store Superette establishment at 1537 Bruckner Blvd, Bronx, NY 104726409 (FIPS 36-5). Geographically precise at coordinates 40.824,-73.8774 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 5 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 157 Matanza Deli (730716)
+Location: 157 W 169th St, Bronx
+
+Store 730716 - 157 Matanza Deli operates as a Open Store Superette establishment at 157 W 169th St, Bronx, NY 104522804 (FIPS 36-5). Geographically precise at coordinates 40.8402,-73.9258 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 160 Crescent Deli & Grocery (1683720)
+Location: 160 Crescent St, Brooklyn
+
+Store 1683720 - 160 Crescent Deli & Grocery operates as a Open Store Superette establishment at 160 Crescent St, Brooklyn, NY 112081645 (FIPS 36-47). Geographically precise at coordinates 40.6855,-73.8729 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 163 Ashley Deli & Grocery (943179)
+Location: 3244 3rd Ave, Bronx
+
+Store 943179 - 163 Ashley Deli & Grocery operates as a Open Store Superette establishment at 3244 3rd Ave, Bronx, NY 104514218 (FIPS 36-5). Geographically precise at coordinates 40.8237,-73.9088 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1683 Jimmy Deli Grocery (1816263)
+Location: 1683 Woodbine St, Ridgewood
+
+Store 1816263 - 1683 Jimmy Deli Grocery operates as a Open Store Superette establishment at 1683 Woodbine St, Ridgewood, NY 113853546 (FIPS 36-81). Geographically precise at coordinates 40.7012,-73.9083 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 16th Food Max (701011)
+Location: 9901 N 16th St, Tampa
+
+Store 701011 - 16th Food Max operates as a Open Store Superette establishment at 9901 N 16th St, Tampa, FL 336128233 (FIPS 12-57). Geographically precise at coordinates 28.0393,-82.4415 (Geocoded to specific address), this location generates $1,196,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,196.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 174th Market & Deli (2578266)
+Location: 17405 SE Stark St, Portland
+
+Store 2578266 - 174th Market & Deli operates as a Open Store Superette establishment at 17405 SE Stark St, Portland, OR 972334500 (FIPS 41-51). Geographically precise at coordinates 45.5192,-122.4837 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harbor Wholesale Grocery Inc (Supplier ID: 44479, Family ID: 18377) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 180th Deli Grocery (942148)
+Location: 838 E 180th St, Bronx
+
+Store 942148 - 180th Deli Grocery operates as a Open Store Superette establishment at 838 E 180th St, Bronx, NY 104601702 (FIPS 36-5). Geographically precise at coordinates 40.8457,-73.8841 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 186 Grocery (728772)
+Location: 416 Audubon Ave, New York
+
+Store 728772 - 186 Grocery operates as a Open Store Superette establishment at 416 Audubon Ave, New York, NY 100333228 (FIPS 36-61). Geographically precise at coordinates 40.8521,-73.9301 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 18th Ave Market (705858)
+Location: 6600 NW 18th Ave, Miami
+
+Store 705858 - 18th Ave Market operates as a Open Store Superette establishment at 6600 NW 18th Ave, Miami, FL 331477416 (FIPS 12-86). Geographically precise at coordinates 25.8348,-80.2271 (Geocoded to specific address), this location generates $1,144,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 5 full-time staff across 2 checkout lanes, yielding a sales density of $1,144.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 18th Street Grocery & Deli (1632164)
+Location: 1801 N Walnut St Ste 1, Ellensburg
+
+Store 1632164 - 18th Street Grocery & Deli operates as a Open Store Superette establishment at 1801 N Walnut St Ste 1, Ellensburg, WA 989262173 (FIPS 53-37). Geographically precise at coordinates 47.0109,-120.5398 (Geocoded to specific address), this location generates $1,976,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,976.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Core Mark/Dist Ctr (Supplier ID: 8974, Family ID: 9293) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1910 Food Market (2121221)
+Location: 2203 W Holmes Rd, Lansing
+
+Store 2121221 - 1910 Food Market operates as a Open Store Superette establishment at 2203 W Holmes Rd, Lansing, MI 489112402 (FIPS 26-65). Geographically precise at coordinates 42.6975,-84.5827 (Geocoded to specific address), this location generates $1,872,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $936.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1912 Market (999175)
+Location: 705 W Santa Fe Ave Ste B, Grants
+
+Store 999175 - 1912 Market operates as a Open Store Supermarket-Conventional establishment at 705 W Santa Fe Ave Ste B, Grants, NM 870203620 (FIPS 35-6). Geographically precise at coordinates 35.1533,-107.8566 (Geocoded to specific address), this location generates $4,160,000 in annual sales ($4,000,001 to $6,000,000) from its 7000.0 square foot space. The operation employs 18 full-time staff across 2 checkout lanes, yielding a sales density of $594.29/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 1915 Deli Grocery (1684207)
+Location: 1915 Anthony Ave, Bronx
+
+Store 1684207 - 1915 Deli Grocery operates as a Open Store Superette establishment at 1915 Anthony Ave, Bronx, NY 104575305 (FIPS 36-5). Geographically precise at coordinates 40.8491,-73.9032 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1925 Drive In Grocery (1941886)
+Location: Monte Cristo N S Hwy 281, Edinburg
+
+Store 1941886 - 1925 Drive In Grocery operates as a Open Store Superette establishment at Monte Cristo N S Hwy 281, Edinburg, TX 78539 (FIPS 48-215). Geographically precise at coordinates 26.2608,-98.1728 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $806.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 194 Manhattan Deli (730392)
+Location: 194 Manhattan Ave, New York
+
+Store 730392 - 194 Manhattan Deli operates as a Open Store Superette establishment at 194 Manhattan Ave, New York, NY 100252602 (FIPS 36-61). Geographically precise at coordinates 40.8,-73.9603 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,716.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 194 Throop Food (1685011)
+Location: 777 Park Ave, Brooklyn
+
+Store 1685011 - 194 Throop Food operates as a Open Store Superette establishment at 777 Park Ave, Brooklyn, NY 112065238 (FIPS 36-47). Geographically precise at coordinates 40.6982,-73.9443 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1st Choice Deli (675659)
+Location: 669 Walden Ave, Buffalo
+
+Store 675659 - 1st Choice Deli operates as a Open Store Superette establishment at 669 Walden Ave, Buffalo, NY 142112541 (FIPS 36-29). Geographically precise at coordinates 42.905,-78.8114 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $858.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 1st Grocery (7368884)
+Location: 9 1st St, Clarksdale
+
+Store 7368884 - 1st Grocery operates as a Open Store Superette establishment at 9 1st St, Clarksdale, MS 386144226 (FIPS 28-27). Geographically precise at coordinates 34.2039,-90.576 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,716.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 2 Js Fresh Market (774482)
+Location: 105 Smelter Ave NE, Great Falls
+
+Store 774482 - 2 Js Fresh Market operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 105 Smelter Ave NE, Great Falls, MT 594041953 (FIPS 30-13). Geographically precise at coordinates 47.5254,-111.3093 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 8000.0 square foot space. The operation employs 15 full-time staff across 4 checkout lanes, yielding a sales density of $390.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Associated Food Stores/Dist Ctr (Supplier ID: 101585, Family ID: 3510) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: 2 Js Thriftway Market (108105)
+Location: 902 Frontage Rd, Idalou
+
+Store 108105 - 2 Js Thriftway Market operates as a Open Store Supermarket-Conventional establishment at 902 Frontage Rd, Idalou, TX 793299111 (FIPS 48-303). Geographically precise at coordinates 33.6622,-101.6944 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 11000.0 square foot space. The operation employs 15 full-time staff across 3 checkout lanes, yielding a sales density of $330.91/sqft. Owned by Independent (Family ID: 99999) as part of a 2-3 Stores-location network, the store sources inventory through Affiliated Foods Inc (Supplier ID: 325, Family ID: 490) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 2 Star Grocery (1818510)
+Location: 1123 Dellwood Ave, Memphis
+
+Store 1818510 - 2 Star Grocery operates as a Open Store Superette establishment at 1123 Dellwood Ave, Memphis, TN 381277761 (FIPS 47-157). Geographically precise at coordinates 35.2105,-90.0267 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 20 North 5th Street Deli (3892571)
+Location: 20 N 5th St, Brooklyn
+
+Store 3892571 - 20 North 5th Street Deli operates as a Open Store Superette establishment at 20 N 5th St, Brooklyn, NY 112493157 (FIPS 36-47). Geographically precise at coordinates 40.7194,-73.9634 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $858.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 20 Street Grocery Store (2002533)
+Location: 1946 W Diamond St, Philadelphia
+
+Store 2002533 - 20 Street Grocery Store operates as a Open Store Superette establishment at 1946 W Diamond St, Philadelphia, PA 191211522 (FIPS 42-101). Geographically precise at coordinates 39.986,-75.166 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,768.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 2009 Carolina Deli Grocery (804331)
+Location: 4302 58th St, Woodside
+
+Store 804331 - 2009 Carolina Deli Grocery operates as a Open Store Superette establishment at 4302 58th St, Woodside, NY 113774751 (FIPS 36-81). Geographically precise at coordinates 40.7431,-73.9073 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 2031 Webster Food Court (2192571)
+Location: 2031 Webster Ave, Bronx
+
+Store 2192571 - 2031 Webster Food Court operates as a Open Store Supermarket-Conventional establishment at 2031 Webster Ave, Bronx, NY 104572411 (FIPS 36-5). Geographically precise at coordinates 40.8509,-73.8992 (Geocoded to specific address), this location generates $2,028,000 in annual sales ($2,000,001 to $4,000,000) from its 1000.0 square foot space. The operation employs 14 full-time staff across 1 checkout lanes, yielding a sales density of $2,028.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 20th Ave Grocery (267043)
+Location: 425 20th Ave, Longview
+
+Store 267043 - 20th Ave Grocery operates as a Open Store Superette establishment at 425 20th Ave, Longview, WA 986321427 (FIPS 53-15). Geographically precise at coordinates 46.1245,-122.9522 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 406195, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 210 Supermarket (941626)
+Location: 210 Soundview Ave, Bronx
+
+Store 941626 - 210 Supermarket operates as a Open Store Superette establishment at 210 Soundview Ave, Bronx, NY 104732410 (FIPS 36-5). Geographically precise at coordinates 40.8098,-73.8552 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 3 checkout lanes, yielding a sales density of $832.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 219 Southern Market (7590412)
+Location: 5030 GA Highway 219, Fortson
+
+Store 7590412 - 219 Southern Market operates as a Open Store Superette establishment at 5030 GA Highway 219, Fortson, GA 318084514 (FIPS 13-145). Geographically precise at coordinates 32.6727,-85.0587 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 3000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 2258 Food (880166)
+Location: 2258 3rd Ave, New York
+
+Store 880166 - 2258 Food operates as a Open Store Supermarket-Conventional establishment at 2258 3rd Ave, New York, NY 100352208 (FIPS 36-61). Geographically precise at coordinates 40.8023,-73.937 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 1000.0 square foot space. The operation employs 11 full-time staff across 3 checkout lanes, yielding a sales density of $6,500.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 22nd Street Produce (947913)
+Location: 5644 W Cermak Rd, Cicero
+
+Store 947913 - 22nd Street Produce operates as a Open Store Supermarket-Conventional establishment at 5644 W Cermak Rd, Cicero, IL 608042221 (FIPS 17-31). Geographically precise at coordinates 41.8511,-87.7661 (Geocoded to specific address), this location generates $2,028,000 in annual sales ($2,000,001 to $4,000,000) from its 5000.0 square foot space. The operation employs 27 full-time staff across 3 checkout lanes, yielding a sales density of $405.60/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Assoc Wholesale WI/DC (Supplier ID: 206913, Family ID: 4110) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 2374 King Deli & Grocery (1665052)
+Location: 2374 Jerome Ave, Bronx
+
+Store 1665052 - 2374 King Deli & Grocery operates as a Open Store Superette establishment at 2374 Jerome Ave, Bronx, NY 104686401 (FIPS 36-5). Geographically precise at coordinates 40.8606,-73.9023 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 251 Grocery & Deli (2042079)
+Location: 251 W Kingsbridge Rd, Bronx
+
+Store 2042079 - 251 Grocery & Deli operates as a Open Store Superette establishment at 251 W Kingsbridge Rd, Bronx, NY 104637308 (FIPS 36-5). Geographically precise at coordinates 40.8729,-73.9048 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 251 La Bodeguita Grocery (7478211)
+Location: 251 E 119th St, New York
+
+Store 7478211 - 251 La Bodeguita Grocery operates as a Open Store Superette establishment at 251 E 119th St, New York, NY 100354101 (FIPS 36-61). Geographically precise at coordinates 40.7992,-73.9367 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 25th Irving Market (122617)
+Location: 2425 Irving St, San Francisco
+
+Store 122617 - 25th Irving Market operates as a Open Store Supermarket-Conventional establishment at 2425 Irving St, San Francisco, CA 941221528 (FIPS 6-75). Geographically precise at coordinates 37.7632,-122.4841 (Geocoded to specific address), this location generates $2,028,000 in annual sales ($2,000,001 to $4,000,000) from its 10000.0 square foot space. The operation employs 24 full-time staff across 4 checkout lanes, yielding a sales density of $202.80/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 83203, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 25th Street Market (7146630)
+Location: 1007 N 25th St, Richmond
+
+Store 7146630 - 25th Street Market operates as a Open Store Superette establishment at 1007 N 25th St, Richmond, VA 232235260 (FIPS 51-760). Geographically precise at coordinates 37.538,-77.4127 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $728.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 27 Pier St Grocery (1654249)
+Location: 27 Pier St, Yonkers
+
+Store 1654249 - 27 Pier St Grocery operates as a Open Store Superette establishment at 27 Pier St, Yonkers, NY 107051857 (FIPS 36-119). Geographically precise at coordinates 40.9234,-73.9027 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 28th Street Supermarket (737932)
+Location: 2747 Cedar Ave, Cleveland
+
+Store 737932 - 28th Street Supermarket operates as a Open Store Superette establishment at 2747 Cedar Ave, Cleveland, OH 441152908 (FIPS 39-35). Geographically precise at coordinates 41.4988,-81.6687 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 4 full-time staff across 3 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through H T Hackney Co/Dist Ctr (Supplier ID: 36166, Family ID: 41880) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 2nd Street Grocery (146255)
+Location: 153 N Oak St, Dodge
+
+Store 146255 - 2nd Street Grocery operates as a Open Store Superette establishment at 153 N Oak St, Dodge, NE 686333092 (FIPS 31-53). Geographically precise at coordinates 41.7209,-96.8831 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $806.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Nash Finch Co/Dist Ctr (Supplier ID: 20507, Family ID: 34780) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Amigos Market (1416467)
+Location: 11191 Azahar St, Ventura
+
+Store 1416467 - 3 Amigos Market operates as a Open Store Superette establishment at 11191 Azahar St, Ventura, CA 930041961 (FIPS 6-111). Geographically precise at coordinates 34.2842,-119.1472 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 10 full-time staff across 1 checkout lanes, yielding a sales density of $728.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Amigos Market (771962)
+Location: 1554 13th Ave, Oakland
+
+Store 771962 - 3 Amigos Market operates as a Open Store Superette establishment at 1554 13th Ave, Oakland, CA 946064329 (FIPS 6-1). Geographically precise at coordinates 37.7911,-122.2454 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Core Mark/Dist Ctr (Supplier ID: 35974, Family ID: 9293) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Bros Deli & Grocery (1812175)
+Location: 6409 Bay Pkwy, Brooklyn
+
+Store 1812175 - 3 Bros Deli & Grocery operates as a Open Store Superette establishment at 6409 Bay Pkwy, Brooklyn, NY 112043930 (FIPS 36-47). Geographically precise at coordinates 40.6141,-73.9809 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Corners Market (757596)
+Location: 1 Route 12, Hartland
+
+Store 757596 - 3 Corners Market operates as a Open Store Superette establishment at 1 Route 12, Hartland, VT 5048 (FIPS 50-27). Geographically precise at coordinates 43.5403,-72.3992 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Assoc Grocers Of New England DC (Supplier ID: 200522, Family ID: 3930) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Kings Grocery & Smoke Shop (7146661)
+Location: 1472 Unionport Rd, Bronx
+
+Store 7146661 - 3 Kings Grocery & Smoke Shop operates as a Open Store Superette establishment at 1472 Unionport Rd, Bronx, NY 104624453 (FIPS 36-5). Geographically precise at coordinates 40.8359,-73.8555 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 3000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Mmm Tree Coffee Deli (942107)
+Location: 874 Morris Park Ave, Bronx
+
+Store 942107 - 3 Mmm Tree Coffee Deli operates as a Open Store Superette establishment at 874 Morris Park Ave, Bronx, NY 104623676 (FIPS 36-5). Geographically precise at coordinates 40.8464,-73.8598 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $1,716.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 3 Rivers Grocery Market (432489)
+Location: 9400 US Highway 60 W, Kevil
+
+Store 432489 - 3 Rivers Grocery Market operates as a Open Store Supermarket-Conventional establishment at 9400 US Highway 60 W, Kevil, KY 420539678 (FIPS 21-145). Geographically precise at coordinates 37.0624,-88.8028 (Geocoded to specific address), this location generates $4,160,000 in annual sales ($4,000,001 to $6,000,000) from its 13000.0 square foot space. The operation employs 18 full-time staff across 4 checkout lanes, yielding a sales density of $320.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Assoc Wholesale/Nashville Div (Supplier ID: 12115, Family ID: 4110) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 305 E 181 Deli Grocery (1946041)
+Location: 305 E 181st St, Bronx
+
+Store 1946041 - 305 E 181 Deli Grocery operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 305 E 181st St, Bronx, NY 104572335 (FIPS 36-5). Geographically precise at coordinates 40.8541,-73.899 (Geocoded to specific address), this location generates $9,100,000 in annual sales ($8,000,001 to $12,000,000) from its 11000.0 square foot space. The operation employs 39 full-time staff across 5 checkout lanes, yielding a sales density of $827.27/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: 3052 Valentine Grocery (942340)
+Location: 3052 Valentine Ave, Bronx
+
+Store 942340 - 3052 Valentine Grocery operates as a Open Store Superette establishment at 3052 Valentine Ave, Bronx, NY 104581310 (FIPS 36-5). Geographically precise at coordinates 40.8739,-73.8848 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 315 Finest Foods (880220)
+Location: 315 Pleasant Ave, New York
+
+Store 880220 - 315 Finest Foods operates as a Open Store Superette establishment at 315 Pleasant Ave, New York, NY 100354416 (FIPS 36-61). Geographically precise at coordinates 40.7957,-73.9329 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 5 full-time staff across 1 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 37 63 Grocery Food (969739)
+Location: 3763 88th St, Jackson Heights
+
+Store 969739 - 37 63 Grocery Food operates as a Open Store Superette establishment at 3763 88th St, Jackson Heights, NY 113727630 (FIPS 36-81). Geographically precise at coordinates 40.7486,-73.8783 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 396 Deli Grocery (2869539)
+Location: 396 7th Ave, Brooklyn
+
+Store 2869539 - 396 Deli Grocery operates as a Open Store Superette establishment at 396 7th Ave, Brooklyn, NY 112155062 (FIPS 36-47). Geographically precise at coordinates 40.665,-73.9833 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,768.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4 Corner (1644699)
+Location: 440 Kennedy St NW, Washington
+
+Store 1644699 - 4 Corner operates as a Open Store Superette establishment at 440 Kennedy St NW, Washington, DC 200116506 (FIPS 11-1). Geographically precise at coordinates 38.9563,-77.0194 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $832.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4 Corners Shop N Save (3783756)
+Location: 372 US Highway 1, Columbia Falls
+
+Store 3783756 - 4 Corners Shop N Save operates as a Open Store Supermarket-Conventional establishment at 372 US Highway 1, Columbia Falls, ME 46233111 (FIPS 23-29). Geographically precise at coordinates 44.643,-67.762 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 12000.0 square foot space. The operation employs 25 full-time staff across 4 checkout lanes, yielding a sales density of $216.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Hannaford Bros Co/Dist Ctr (Supplier ID: 84158, Family ID: 80070) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 4 Guys Shop (7865721)
+Location: 4820 W North Ave, Chicago
+
+Store 7865721 - 4 Guys Shop operates as a Open Store Superette establishment at 4820 W North Ave, Chicago, IL 606394530 (FIPS 17-31). Geographically precise at coordinates 41.9096,-87.7467 (Geocoded to specific address), this location generates $1,248,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $624.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4 Seasons Mart (936591)
+Location: 1181 W Putnam Ave, Porterville
+
+Store 936591 - 4 Seasons Mart operates as a Open Store Superette establishment at 1181 W Putnam Ave, Porterville, CA 932573049 (FIPS 6-107). Geographically precise at coordinates 36.0695,-119.0439 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Core Mark/Dist Ctr (Supplier ID: 8918, Family ID: 9293) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4 Sisters Market (758352)
+Location: 4162 Hornet Hwy, Hundred
+
+Store 758352 - 4 Sisters Market operates as a Open Store Superette establishment at 4162 Hornet Hwy, Hundred, WV 26575 (FIPS 54-103). Geographically precise at coordinates 39.6861,-80.4592 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $728.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Bells Wholesale (Supplier ID: 194425, Family ID: 54761) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4 Ts Family Market (97785)
+Location: 801 E Jack Choate Ave, Hennessey
+
+Store 97785 - 4 Ts Family Market operates as a Open Store Supermarket-Conventional establishment at 801 E Jack Choate Ave, Hennessey, OK 737429655 (FIPS 40-73). Geographically precise at coordinates 36.1167,-97.8911 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 12000.0 square foot space. The operation employs 20 full-time staff across 4 checkout lanes, yielding a sales density of $216.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Assoc Wholesale/Oklahoma Div (Supplier ID: 68802, Family ID: 4110) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 4 Way Meat Market (1572432)
+Location: 403 Cooper Rd, Oxnard
+
+Store 1572432 - 4 Way Meat Market operates as a Open Store Superette establishment at 403 Cooper Rd, Oxnard, CA 930305407 (FIPS 6-111). Geographically precise at coordinates 34.2046,-119.1741 (Geocoded to specific address), this location generates $1,300,000 in annual sales ($1,000,001 to $1,500,000) from its 4000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $325.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 43rd St Grocery & Candy (879569)
+Location: 600 10th Ave, New York
+
+Store 879569 - 43rd St Grocery & Candy operates as a Open Store Supermarket-Limited Assortment establishment at 600 10th Ave, New York, NY 100363014 (FIPS 36-61). Geographically precise at coordinates 40.7605,-73.9946 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 1000.0 square foot space. The operation employs 22 full-time staff across 1 checkout lanes, yielding a sales density of $5,200.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Supermarket-Limited Assortment segment.
+
+================================================================================
+STORE ANALYSIS: 47 Marketplace (1694143)
+Location: 47 N Main St, Gloversville
+
+Store 1694143 - 47 Marketplace operates as a Open Store Superette establishment at 47 N Main St, Gloversville, NY 12078 (FIPS 36-35). Geographically precise at coordinates 43.0519,-74.3448 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 47th Avenue Market & Gas (7935170)
+Location: 6031 47th Ave NE, Marysville
+
+Store 7935170 - 47th Avenue Market & Gas operates as a Open Store Superette establishment at 6031 47th Ave NE, Marysville, WA 982705168 (FIPS 53-61). Geographically precise at coordinates 48.0511,-122.1676 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 3 checkout lanes, yielding a sales density of $806.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 48th Street Market (747176)
+Location: 2371 W 48th St, Los Angeles
+
+Store 747176 - 48th Street Market operates as a Open Store Superette establishment at 2371 W 48th St, Los Angeles, CA 900431405 (FIPS 6-37). Geographically precise at coordinates 34.0001,-118.3189 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 12 full-time staff across 2 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 49 Stop Food Market (1663879)
+Location: 4847 Walnut St, Philadelphia
+
+Store 1663879 - 49 Stop Food Market operates as a Open Store Superette establishment at 4847 Walnut St, Philadelphia, PA 191394337 (FIPS 42-101). Geographically precise at coordinates 39.9562,-75.2194 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4M Foods (1483149)
+Location: 6349 Macarthur Blvd, Oakland
+
+Store 1483149 - 4M Foods operates as a Open Store Superette establishment at 6349 Macarthur Blvd, Oakland, CA 946051635 (FIPS 6-1). Geographically precise at coordinates 37.7741,-122.1801 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4th Avenue Supermarket (1718454)
+Location: 1992 E 4th Ave, Hialeah
+
+Store 1718454 - 4th Avenue Supermarket operates as a Open Store Superette establishment at 1992 E 4th Ave, Hialeah, FL 330102714 (FIPS 12-86). Geographically precise at coordinates 25.8398,-80.274 (Geocoded to specific address), this location generates $1,144,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 4th Street Market (772013)
+Location: 301 4th St, Richmond
+
+Store 772013 - 4th Street Market operates as a Open Store Superette establishment at 301 4th St, Richmond, CA 948013001 (FIPS 6-13). Geographically precise at coordinates 37.9362,-122.3657 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 5 Borough Market (1683780)
+Location: 3900 5th Ave, Brooklyn
+
+Store 1683780 - 5 Borough Market operates as a Open Store Superette establishment at 3900 5th Ave, Brooklyn, NY 112322926 (FIPS 36-47). Geographically precise at coordinates 40.6513,-74.0041 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 6000.0 square foot space. The operation employs 5 full-time staff across 1 checkout lanes, yielding a sales density of $242.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 5 Brothers Grocery (1648820)
+Location: 930 Southard St, Key West
+
+Store 1648820 - 5 Brothers Grocery operates as a Open Store Superette establishment at 930 Southard St, Key West, FL 330407176 (FIPS 12-87). Geographically precise at coordinates 24.5583,-81.7963 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,716.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Zuma & Sons Distributors Corp (Supplier ID: 195367, Family ID: 40959) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 5 De Mayo Food Market (805934)
+Location: 8106 Roosevelt Ave, Jackson Heights
+
+Store 805934 - 5 De Mayo Food Market operates as a Open Store Superette establishment at 8106 Roosevelt Ave, Jackson Heights, NY 113726745 (FIPS 36-81). Geographically precise at coordinates 40.7475,-73.8847 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 5 Star Food Store (860878)
+Location: 7302 Hurtgen Forest Rd, Houston
+
+Store 860878 - 5 Star Food Store operates as a Open Store Superette establishment at 7302 Hurtgen Forest Rd, Houston, TX 770333441 (FIPS 48-201). Geographically precise at coordinates 29.6795,-95.3449 (Geocoded to specific address), this location generates $1,196,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 3 full-time staff across 2 checkout lanes, yielding a sales density of $598.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 5 Star Market & More (7928623)
+Location: 8933 Natural Bridge Rd, Saint Louis
+
+Store 7928623 - 5 Star Market & More operates as a Open Store Superette establishment at 8933 Natural Bridge Rd, Saint Louis, MO 631213916 (FIPS 29-189). Geographically precise at coordinates 38.7168,-90.3278 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 5000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $332.80/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 504 Grocery & Deli (447185)
+Location: 504 S Main St, Leedey
+
+Store 447185 - 504 Grocery & Deli operates as a Open Store Superette establishment at 504 S Main St, Leedey, OK 736540036 (FIPS 40-43). Geographically precise at coordinates 35.8688,-99.3475 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 514 Terrace Food (726414)
+Location: 514 Richmond Ter, Staten Island
+
+Store 726414 - 514 Terrace Food operates as a Open Store Superette establishment at 514 Richmond Ter, Staten Island, NY 103011353 (FIPS 36-85). Geographically precise at coordinates 40.6463,-74.0895 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $832.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 54 Royal Market (728885)
+Location: 817 9th Ave, New York
+
+Store 728885 - 54 Royal Market operates as a Open Store Superette establishment at 817 9th Ave, New York, NY 100194401 (FIPS 36-61). Geographically precise at coordinates 40.7662,-73.9872 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 11 full-time staff across 3 checkout lanes, yielding a sales density of $884.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 55 Fulton Market (12302)
+Location: 55 Fulton St, New York
+
+Store 12302 - 55 Fulton Market operates as a Open Store Supermarket-Conventional establishment at 55 Fulton St, New York, NY 100381821 (FIPS 36-61). Geographically precise at coordinates 40.7088,-74.0048 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 10000.0 square foot space. The operation employs 46 full-time staff across 12 checkout lanes, yielding a sales density of $650.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 80244, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 551 Deli & Grocery (806905)
+Location: 551 Malcolm X Blvd, New York
+
+Store 806905 - 551 Deli & Grocery operates as a Open Store Superette establishment at 551 Malcolm X Blvd, New York, NY 100371806 (FIPS 36-61). Geographically precise at coordinates 40.816,-73.9396 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 3 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 560 Deli & Grocery (3982101)
+Location: 560 Remsen Ave, Brooklyn
+
+Store 3982101 - 560 Deli & Grocery operates as a Open Store Superette establishment at 560 Remsen Ave, Brooklyn, NY 112361010 (FIPS 36-47). Geographically precise at coordinates 40.6528,-73.9204 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 57 Grocery (676890)
+Location: 7850 Fairystone Park Hwy, Bassett
+
+Store 676890 - 57 Grocery operates as a Open Store Superette establishment at 7850 Fairystone Park Hwy, Bassett, VA 240553687 (FIPS 51-89). Geographically precise at coordinates 36.7574,-80.0591 (Geocoded to specific address), this location generates $1,976,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $1,976.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through H T Hackney Co/Dist Ctr (Supplier ID: 23162, Family ID: 41880) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 581 Little Store (1424391)
+Location: 29907 County Road 581, Ishpeming
+
+Store 1424391 - 581 Little Store operates as a Open Store Superette establishment at 29907 County Road 581, Ishpeming, MI 498499242 (FIPS 26-103). Geographically precise at coordinates 46.4182,-87.7515 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $702.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 6001 California Market (527409)
+Location: 6001 California St, San Francisco
+
+Store 527409 - 6001 California Market operates as a Open Store Superette establishment at 6001 California St, San Francisco, CA 941212107 (FIPS 6-75). Geographically precise at coordinates 37.784,-122.482 (Geocoded to specific address), this location generates $1,924,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $962.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 619 Grand Gourmet (2769910)
+Location: 619 Grand St, Brooklyn
+
+Store 2769910 - 619 Grand Gourmet operates as a Open Store Superette establishment at 619 Grand St, Brooklyn, NY 112114801 (FIPS 36-47). Geographically precise at coordinates 40.7114,-73.9474 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $1,664.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 6601 Myrtle Avenue Deli Grocery (3957046)
+Location: 6601 Myrtle Ave, Ridgewood
+
+Store 3957046 - 6601 Myrtle Avenue Deli Grocery operates as a Open Store Superette establishment at 6601 Myrtle Ave, Ridgewood, NY 113857049 (FIPS 36-81). Geographically precise at coordinates 40.7014,-73.8882 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,768.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 6616 Meat & Produce (941163)
+Location: 6614 Beach Channel Dr, Arverne
+
+Store 941163 - 6616 Meat & Produce operates as a Open Store Superette establishment at 6614 Beach Channel Dr, Arverne, NY 116921415 (FIPS 36-81). Geographically precise at coordinates 40.593,-73.7958 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 3000.0 square foot space. The operation employs 11 full-time staff across 2 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 674 Gourmet Deli (1693620)
+Location: 674 Allerton Ave, Bronx
+
+Store 1693620 - 674 Gourmet Deli operates as a Open Store Superette establishment at 674 Allerton Ave, Bronx, NY 104677302 (FIPS 36-5). Geographically precise at coordinates 40.865,-73.8681 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 681 Deli Grocery Store (942421)
+Location: 681 E 187th St, Bronx
+
+Store 942421 - 681 Deli Grocery Store operates as a Open Store Superette establishment at 681 E 187th St, Bronx, NY 104586801 (FIPS 36-5). Geographically precise at coordinates 40.8546,-73.8852 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 5 full-time staff across 2 checkout lanes, yielding a sales density of $1,352.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 6th Street Market (444065)
+Location: 304 SE 6th St, Morrisonville
+
+Store 444065 - 6th Street Market operates as a Open Store Supermarket-Conventional establishment at 304 SE 6th St, Morrisonville, IL 625466034 (FIPS 17-21). Geographically precise at coordinates 39.4199,-89.4555 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 2000.0 square foot space. The operation employs 14 full-time staff across 1 checkout lanes, yielding a sales density of $1,300.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 7 Day Liquor Mart (1397694)
+Location: 6100 Bellflower Blvd, Lakewood
+
+Store 1397694 - 7 Day Liquor Mart operates as a Open Store Superette establishment at 6100 Bellflower Blvd, Lakewood, CA 907131064 (FIPS 6-37). Geographically precise at coordinates 33.8659,-118.1251 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 3000.0 square foot space. The operation employs 12 full-time staff across 1 checkout lanes, yielding a sales density of $468.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 7 Days Market (1430134)
+Location: 1111 Beaumont Ave, Beaumont
+
+Store 1430134 - 7 Days Market operates as a Open Store Superette establishment at 1111 Beaumont Ave, Beaumont, CA 922231809 (FIPS 6-65). Geographically precise at coordinates 33.9373,-116.9772 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 11 full-time staff across 2 checkout lanes, yielding a sales density of $728.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 7 Food Mart & Tortilleria (7478505)
+Location: 2332 Santa Barbara Blvd, Naples
+
+Store 7478505 - 7 Food Mart & Tortilleria operates as a Open Store Supermarket-Limited Assortment establishment at 2332 Santa Barbara Blvd, Naples, FL 341166732 (FIPS 12-21). Geographically precise at coordinates 26.1856,-81.7189 (Geocoded to specific address), this location generates $4,160,000 in annual sales ($4,000,001 to $6,000,000) from its 4000.0 square foot space. The operation employs 14 full-time staff across 2 checkout lanes, yielding a sales density of $1,040.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 1034, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Limited Assortment segment.
+
+================================================================================
+STORE ANALYSIS: 7 Seas Grocery (2024702)
+Location: 235 Bushwick Ave, Brooklyn
+
+Store 2024702 - 7 Seas Grocery operates as a Open Store Superette establishment at 235 Bushwick Ave, Brooklyn, NY 112062240 (FIPS 36-47). Geographically precise at coordinates 40.7079,-73.9397 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 7 Star Grocery (7023183)
+Location: 6 Medford St, Arlington
+
+Store 7023183 - 7 Star Grocery operates as a Open Store Superette establishment at 6 Medford St, Arlington, MA 24743106 (FIPS 25-17). Geographically precise at coordinates 42.4151,-71.1511 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 11 full-time staff across 3 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 7 Star Grocery Store (242716)
+Location: 829 SW 1st St, Mill City
+
+Store 242716 - 7 Star Grocery Store operates as a Open Store Superette establishment at 829 SW 1st St, Mill City, OR 97360 (FIPS 41-43). Geographically precise at coordinates 44.7489,-122.4774 (Geocoded to specific address), this location generates $1,976,000 in annual sales ($1,500,001 to $2,000,000) from its 6000.0 square foot space. The operation employs 11 full-time staff across 2 checkout lanes, yielding a sales density of $329.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 406195, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 711 Oak Market (3968488)
+Location: 711 SE Oak Ave, Roseburg
+
+Store 3968488 - 711 Oak Market operates as a Open Store Superette establishment at 711 SE Oak Ave, Roseburg, OR 974704913 (FIPS 41-19). Geographically precise at coordinates 43.2092,-123.3457 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 4000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $442.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Core Mark/Dist Ctr (Supplier ID: 8974, Family ID: 9293) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 72 Lucky Lotto (1410078)
+Location: 7201 3rd Ave, Brooklyn
+
+Store 1410078 - 72 Lucky Lotto operates as a Open Store Superette establishment at 7201 3rd Ave, Brooklyn, NY 112092107 (FIPS 36-47). Geographically precise at coordinates 40.6334,-74.0268 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 747 Supermarket (610523)
+Location: 4675 NW 7th St, Miami
+
+Store 610523 - 747 Supermarket operates as a Open Store Supermarket-Conventional establishment at 4675 NW 7th St, Miami, FL 331262308 (FIPS 12-86). Geographically precise at coordinates 25.7791,-80.2719 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 4000.0 square foot space. The operation employs 32 full-time staff across 4 checkout lanes, yielding a sales density of $1,625.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 77 Avenue D Grocery (1666039)
+Location: 77 Avenue D, New York
+
+Store 1666039 - 77 Avenue D Grocery operates as a Open Store Superette establishment at 77 Avenue D, New York, NY 100096050 (FIPS 36-61). Geographically precise at coordinates 40.7227,-73.977 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 777 Market (1709558)
+Location: 1900 S La Brea Ave, Los Angeles
+
+Store 1709558 - 777 Market operates as a Open Store Superette establishment at 1900 S La Brea Ave, Los Angeles, CA 900161406 (FIPS 6-37). Geographically precise at coordinates 34.0401,-118.3477 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 777 Supermarket (492712)
+Location: 1655 S 29th St, Philadelphia
+
+Store 492712 - 777 Supermarket operates as a Open Store Superette establishment at 1655 S 29th St, Philadelphia, PA 191451344 (FIPS 42-101). Geographically precise at coordinates 39.9327,-75.193 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 3000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $450.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Allen Bros Wholesale (Supplier ID: 180278, Family ID: 10237) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 786 Convenient Mart & Deli (1744362)
+Location: 11 Erich Rd, Richmond
+
+Store 1744362 - 786 Convenient Mart & Deli operates as a Open Store Superette establishment at 11 Erich Rd, Richmond, VA 232256121 (FIPS 51-760). Geographically precise at coordinates 37.5067,-77.4995 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 787 Market & Cafe (7858724)
+Location: 6105 Memphis Ave, Cleveland
+
+Store 7858724 - 787 Market & Cafe operates as a Open Store Supermarket-Conventional establishment at 6105 Memphis Ave, Cleveland, OH 441442252 (FIPS 39-35). Geographically precise at coordinates 41.4399,-81.7293 (Geocoded to specific address), this location generates $2,028,000 in annual sales ($2,000,001 to $4,000,000) from its 2000.0 square foot space. The operation employs 23 full-time staff across 3 checkout lanes, yielding a sales density of $1,014.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 797 E 182nd St Deli Grocery (942154)
+Location: 797 E 182nd St, Bronx
+
+Store 942154 - 797 E 182nd St Deli Grocery operates as a Open Store Superette establishment at 797 E 182nd St, Bronx, NY 104601140 (FIPS 36-5). Geographically precise at coordinates 40.8488,-73.8837 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 7th Street Market (1657698)
+Location: 270 Southfield Rd, Ecorse
+
+Store 1657698 - 7th Street Market operates as a Open Store Superette establishment at 270 Southfield Rd, Ecorse, MI 482291168 (FIPS 26-163). Geographically precise at coordinates 42.2441,-83.1556 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 8 Brothers Grocery Store (1639326)
+Location: 2120 N 29th St, Philadelphia
+
+Store 1639326 - 8 Brothers Grocery Store operates as a Open Store Superette establishment at 2120 N 29th St, Philadelphia, PA 191211234 (FIPS 42-101). Geographically precise at coordinates 39.9886,-75.1805 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 3000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $606.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 8 Brothers Super Market (2127204)
+Location: 2639 Tasker St, Philadelphia
+
+Store 2127204 - 8 Brothers Super Market operates as a Open Store Superette establishment at 2639 Tasker St, Philadelphia, PA 191451227 (FIPS 42-101). Geographically precise at coordinates 39.9332,-75.1895 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 8 Mile Foodland (69305)
+Location: 18880 W 8 Mile Rd, Southfield
+
+Store 69305 - 8 Mile Foodland operates as a Open Store Supermarket-Conventional establishment at 18880 W 8 Mile Rd, Southfield, MI 480754129 (FIPS 26-125). Geographically precise at coordinates 42.4443,-83.2283 (Geocoded to specific address), this location generates $15,600,000 in annual sales ($12,000,001 to $16,000,000) from its 21000.0 square foot space. The operation employs 28 full-time staff across 5 checkout lanes, yielding a sales density of $742.86/sqft. Owned by Independent (Family ID: 99999) as part of a 2-3 Stores-location network, the store sources inventory through Spartan Stores/Dist Ctr (Supplier ID: 18751, Family ID: 34780) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 8 Rios Supermarket (543843)
+Location: 4099 NW 31st Ave, Fort Lauderdale
+
+Store 543843 - 8 Rios Supermarket operates as a Open Store Supermarket-Conventional establishment at 4099 NW 31st Ave, Fort Lauderdale, FL 333094957 (FIPS 12-11). Geographically precise at coordinates 26.1774,-80.1873 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 3000.0 square foot space. The operation employs 33 full-time staff across 3 checkout lanes, yielding a sales density of $2,166.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 80th Grocery (1812087)
+Location: 8014 5th Ave, Brooklyn
+
+Store 1812087 - 80th Grocery operates as a Open Store Superette establishment at 8014 5th Ave, Brooklyn, NY 112094004 (FIPS 36-47). Geographically precise at coordinates 40.6255,-74.0245 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $806.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Harold Levinson Associates (Supplier ID: 195994, Family ID: 2213) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 812 Supermercado (7926336)
+Location: 2825 Fm 812 Rd, Del Valle
+
+Store 7926336 - 812 Supermercado operates as a Open Store Superette establishment at 2825 Fm 812 Rd, Del Valle, TX 78617 (FIPS 48-21). Geographically precise at coordinates 30.0967,-97.602 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 18000.0 square foot space. The operation employs 9 full-time staff across 3 checkout lanes, yielding a sales density of $95.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 828 Irving Street Market (772138)
+Location: 828 Irving St, San Francisco
+
+Store 772138 - 828 Irving Street Market operates as a Open Store Superette establishment at 828 Irving St, San Francisco, CA 941222311 (FIPS 6-75). Geographically precise at coordinates 37.764,-122.4669 (Geocoded to specific address), this location generates $1,872,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,872.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 83203, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 82nd Deli & Grocery (2211661)
+Location: 8126 5th Ave, Brooklyn
+
+Store 2211661 - 82nd Deli & Grocery operates as a Open Store Superette establishment at 8126 5th Ave, Brooklyn, NY 112094103 (FIPS 36-47). Geographically precise at coordinates 40.6245,-74.0248 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 840 Street Nicholas Food (3688635)
+Location: 840 Saint Nicholas Ave, New York
+
+Store 3688635 - 840 Street Nicholas Food operates as a Open Store Superette establishment at 840 Saint Nicholas Ave, New York, NY 100311123 (FIPS 36-61). Geographically precise at coordinates 40.8288,-73.942 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $1,612.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 84th St Market (1862121)
+Location: 2592 84th St SW, Byron Center
+
+Store 1862121 - 84th St Market operates as a Open Store Superette establishment at 2592 84th St SW, Byron Center, MI 493155123 (FIPS 26-81). Geographically precise at coordinates 42.8122,-85.7277 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 12 full-time staff across 2 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through H T Hackney Co/Dist Ctr (Supplier ID: 11260, Family ID: 41880) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 88 Manor Market (570060)
+Location: 15056 Farnsworth St, San Leandro
+
+Store 570060 - 88 Manor Market operates as a Open Store Supermarket-Conventional establishment at 15056 Farnsworth St, San Leandro, CA 945791635 (FIPS 6-1). Geographically precise at coordinates 37.6906,-122.1517 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 6000.0 square foot space. The operation employs 15 full-time staff across 4 checkout lanes, yielding a sales density of $606.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 83203, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 88 Manor Market (7674316)
+Location: 30200 Mission Blvd, Hayward
+
+Store 7674316 - 88 Manor Market operates as a Open Store Supermarket-Conventional establishment at 30200 Mission Blvd, Hayward, CA 945447413 (FIPS 6-1). Geographically precise at coordinates 37.6252,-122.0416 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 10000.0 square foot space. The operation employs 33 full-time staff across 3 checkout lanes, yielding a sales density of $650.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 88 Marketplace (7967216)
+Location: 2105 S Jefferson St Fl 2, Chicago
+
+Store 7967216 - 88 Marketplace operates as a Open Store Supermarket-Conventional establishment at 2105 S Jefferson St Fl 2, Chicago, IL 606161822 (FIPS 17-31). Geographically precise at coordinates 41.8544,-87.6417 (Geocoded to specific address), this location generates $27,300,000 in annual sales ($25,000,001 to $30,000,000) from its 52000.0 square foot space. The operation employs 23 full-time staff across 18 checkout lanes, yielding a sales density of $525.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 88 Ranch Marketplace (209654)
+Location: 27473 Ynez Rd, Temecula
+
+Store 209654 - 88 Ranch Marketplace operates as a Open Store Supermarket-Conventional establishment at 27473 Ynez Rd, Temecula, CA 925914612 (FIPS 6-65). Geographically precise at coordinates 33.5047,-117.1499 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 25000.0 square foot space. The operation employs 20 full-time staff across 2 checkout lanes, yielding a sales density of $260.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 2989, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 88 Supermarket (385188)
+Location: 5990 Lapalco Blvd, Marrero
+
+Store 385188 - 88 Supermarket operates as a Open Store Supermarket-Conventional establishment at 5990 Lapalco Blvd, Marrero, LA 700724834 (FIPS 22-51). Geographically precise at coordinates 29.8751,-90.1115 (Geocoded to specific address), this location generates $18,200,000 in annual sales ($16,000,001 to $20,000,000) from its 40000.0 square foot space. The operation employs 27 full-time staff across 5 checkout lanes, yielding a sales density of $455.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 888 International Market (353682)
+Location: 10118 W 119th St, Overland Park
+
+Store 353682 - 888 International Market operates as a Open Store Supermarket-Conventional establishment at 10118 W 119th St, Overland Park, KS 662131600 (FIPS 20-91). Geographically precise at coordinates 38.9149,-94.7027 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 3000.0 square foot space. The operation employs 25 full-time staff across 4 checkout lanes, yielding a sales density of $1,733.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 91 Farmers Market (10107)
+Location: 34 Lanes Mill Rd, Brick
+
+Store 10107 - 91 Farmers Market operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 34 Lanes Mill Rd, Brick, NJ 87247056 (FIPS 34-29). Geographically precise at coordinates 40.0957,-74.1455 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 4000.0 square foot space. The operation employs 28 full-time staff across 4 checkout lanes, yielding a sales density of $1,625.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: 94 ST Grocery (1938062)
+Location: 3562 94th St, Jackson Heights
+
+Store 1938062 - 94 ST Grocery operates as a Open Store Superette establishment at 3562 94th St, Jackson Heights, NY 113725970 (FIPS 36-81). Geographically precise at coordinates 40.7511,-73.8733 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 95th Produce Market (1663724)
+Location: 7759 W 95th St, Hickory Hills
+
+Store 1663724 - 95th Produce Market operates as a Open Store Superette establishment at 7759 W 95th St, Hickory Hills, IL 604572204 (FIPS 17-31). Geographically precise at coordinates 41.7186,-87.8125 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 5 checkout lanes, yielding a sales density of $1,560.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 206719, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: 999 Seafood Market (1548347)
+Location: 5315 Gibson Blvd SE, Albuquerque
+
+Store 1548347 - 999 Seafood Market operates as a Open Store Supermarket-Conventional establishment at 5315 Gibson Blvd SE, Albuquerque, NM 871084726 (FIPS 35-1). Geographically precise at coordinates 35.0584,-106.5825 (Geocoded to specific address), this location generates $4,680,000 in annual sales ($4,000,001 to $6,000,000) from its 25000.0 square foot space. The operation employs 20 full-time staff across 5 checkout lanes, yielding a sales density of $187.20/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: 9th Street Market (5636256)
+Location: 248 N 9th St, Allentown
+
+Store 5636256 - 9th Street Market operates as a Open Store Superette establishment at 248 N 9th St, Allentown, PA 181023913 (FIPS 42-77). Geographically precise at coordinates 40.6053,-75.4774 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 3000.0 square foot space. The operation employs 11 full-time staff across 2 checkout lanes, yielding a sales density of $589.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & A Corner Grocery (1397701)
+Location: 2520 Foothill Blvd, Oakland
+
+Store 1397701 - A & A Corner Grocery operates as a Open Store Superette establishment at 2520 Foothill Blvd, Oakland, CA 946011139 (FIPS 6-1). Geographically precise at coordinates 37.7847,-122.2301 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & A Grocery (60580)
+Location: 200 N Sandusky Ave, Upper Sandusky
+
+Store 60580 - A & A Grocery operates as a Open Store Supermarket-Conventional establishment at 200 N Sandusky Ave, Upper Sandusky, OH 433511234 (FIPS 39-175). Geographically precise at coordinates 40.8291,-83.2814 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 6000.0 square foot space. The operation employs 20 full-time staff across 4 checkout lanes, yielding a sales density of $520.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Nash Finch Co/Dist Ctr (Supplier ID: 16625, Family ID: 34780) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & A Grocery (7345282)
+Location: 6776 Biggers Reyno Rd, Reyno
+
+Store 7345282 - A & A Grocery operates as a Open Store Supermarket-Conventional establishment at 6776 Biggers Reyno Rd, Reyno, AR 72462 (FIPS 5-121). Geographically precise at coordinates 36.3629,-90.7534 (Geocoded to specific address), this location generates $4,160,000 in annual sales ($4,000,001 to $6,000,000) from its 2000.0 square foot space. The operation employs 16 full-time staff across 2 checkout lanes, yielding a sales density of $2,080.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & A Market Center (111075)
+Location: 218 N Idaho St, Arco
+
+Store 111075 - A & A Market Center operates as a Open Store Supermarket-Conventional establishment at 218 N Idaho St, Arco, ID 83213 (FIPS 16-23). Geographically precise at coordinates 43.6368,-113.3027 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 8000.0 square foot space. The operation employs 21 full-time staff across 3 checkout lanes, yielding a sales density of $390.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Associated Food Stores/Dist Ctr (Supplier ID: 101585, Family ID: 3510) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & A Supermarket (3192364)
+Location: 5456 Warrington Ave, Philadelphia
+
+Store 3192364 - A & A Supermarket operates as a Open Store Supermarket-Conventional establishment at 5456 Warrington Ave, Philadelphia, PA 191434810 (FIPS 42-101). Geographically precise at coordinates 39.941,-75.2267 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 1000.0 square foot space. The operation employs 29 full-time staff across 2 checkout lanes, yielding a sales density of $2,600.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & A Supermarket (569717)
+Location: 6545 Stockton Blvd, Sacramento
+
+Store 569717 - A & A Supermarket operates as a Open Store Supermarket-Conventional establishment at 6545 Stockton Blvd, Sacramento, CA 958231606 (FIPS 6-67). Geographically precise at coordinates 38.5077,-121.4329 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 17000.0 square foot space. The operation employs 13 full-time staff across 4 checkout lanes, yielding a sales density of $214.12/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 201225, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & B Food (1811034)
+Location: 7402 17th Ave, Brooklyn
+
+Store 1811034 - A & B Food operates as a Open Store Superette establishment at 7402 17th Ave, Brooklyn, NY 112045638 (FIPS 36-47). Geographically precise at coordinates 40.6154,-73.998 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 3 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & B Foods (111249)
+Location: 1234 8th St, Lewiston
+
+Store 111249 - A & B Foods operates as a Open Store Supermarket-Conventional establishment at 1234 8th St, Lewiston, ID 835012905 (FIPS 16-69). Geographically precise at coordinates 46.4079,-117.0217 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 7000.0 square foot space. The operation employs 18 full-time staff across 4 checkout lanes, yielding a sales density of $371.43/sqft. Owned by Independent (Family ID: 99999) as part of a 2-3 Stores-location network, the store sources inventory through U R M Stores Inc (Supplier ID: 20473, Family ID: 37410) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & B Foods (111257)
+Location: 456 Thain Rd, Lewiston
+
+Store 111257 - A & B Foods operates as a Open Store Supermarket-Conventional establishment at 456 Thain Rd, Lewiston, ID 835015339 (FIPS 16-69). Geographically precise at coordinates 46.3771,-116.9712 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 5000.0 square foot space. The operation employs 14 full-time staff across 5 checkout lanes, yielding a sales density of $520.00/sqft. Owned by Independent (Family ID: 99999) as part of a 2-3 Stores-location network, the store sources inventory through U R M Stores Inc (Supplier ID: 20473, Family ID: 37410) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & B Market (1416544)
+Location: 1612 Pine Ave, Long Beach
+
+Store 1416544 - A & B Market operates as a Open Store Superette establishment at 1612 Pine Ave, Long Beach, CA 908131822 (FIPS 6-37). Geographically precise at coordinates 33.7874,-118.1923 (Geocoded to specific address), this location generates $1,144,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 1 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & B Naturals (5551436)
+Location: 101 Cottage St, Bar Harbor
+
+Store 5551436 - A & B Naturals operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 101 Cottage St, Bar Harbor, ME 46091442 (FIPS 23-9). Geographically precise at coordinates 44.389,-68.2121 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 3000.0 square foot space. The operation employs 15 full-time staff across 2 checkout lanes, yielding a sales density of $1,213.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 74258, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: A & B Stoprite Market (527442)
+Location: 4675 Hoover Ave, Dayton
+
+Store 527442 - A & B Stoprite Market operates as a Open Store Superette establishment at 4675 Hoover Ave, Dayton, OH 454171121 (FIPS 39-113). Geographically precise at coordinates 39.7614,-84.2659 (Geocoded to specific address), this location generates $1,924,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,924.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Gummer Wholesale Inc (Supplier ID: 66934, Family ID: 17917) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & B Supermarket (915609)
+Location: 193 Us Route 2, Grand Isle
+
+Store 915609 - A & B Supermarket operates as a Open Store Superette establishment at 193 Us Route 2, Grand Isle, VT 54582457 (FIPS 50-13). Geographically precise at coordinates 44.7203,-73.2944 (Geocoded to specific address), this location generates $1,976,000 in annual sales ($1,500,001 to $2,000,000) from its 6000.0 square foot space. The operation employs 15 full-time staff across 2 checkout lanes, yielding a sales density of $329.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Assoc Grocers Of New England DC (Supplier ID: 200522, Family ID: 3930) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & C Superette (1684764)
+Location: 884 Manor Rd, Staten Island
+
+Store 1684764 - A & C Superette operates as a Open Store Supermarket-Conventional establishment at 884 Manor Rd, Staten Island, NY 103147005 (FIPS 36-85). Geographically precise at coordinates 40.605,-74.1211 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 2000.0 square foot space. The operation employs 18 full-time staff across 2 checkout lanes, yielding a sales density of $2,600.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 80705, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & C Supermarket (1764169)
+Location: 3210 S Wilmington St, Raleigh
+
+Store 1764169 - A & C Supermarket operates as a Open Store Supermarket-Conventional establishment at 3210 S Wilmington St, Raleigh, NC 276033654 (FIPS 37-183). Geographically precise at coordinates 35.7365,-78.6504 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 20000.0 square foot space. The operation employs 24 full-time staff across 6 checkout lanes, yielding a sales density of $182.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through H T Hackney Co/Dist Ctr (Supplier ID: 23173, Family ID: 41880) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & E Deli (1827171)
+Location: 105 Brownsville Rd, Pittsburgh
+
+Store 1827171 - A & E Deli operates as a Open Store Superette establishment at 105 Brownsville Rd, Pittsburgh, PA 152102113 (FIPS 42-3). Geographically precise at coordinates 40.4173,-79.9866 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 13 full-time staff across 2 checkout lanes, yielding a sales density of $1,768.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & E Mini Market (3645888)
+Location: 1300 W Porter St, Philadelphia
+
+Store 3645888 - A & E Mini Market operates as a Open Store Superette establishment at 1300 W Porter St, Philadelphia, PA 191483522 (FIPS 42-101). Geographically precise at coordinates 39.9191,-75.1688 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & E Supermarket (2521117)
+Location: 11731 Farmers Blvd Ste 2, Saint Albans
+
+Store 2521117 - A & E Supermarket operates as a Open Store Supermarket-Conventional establishment at 11731 Farmers Blvd Ste 2, Saint Albans, NY 114124053 (FIPS 36-81). Geographically precise at coordinates 40.6907,-73.7621 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 6000.0 square foot space. The operation employs 31 full-time staff across 3 checkout lanes, yielding a sales density of $1,083.33/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & G Deli Grocery (7544500)
+Location: 948 E 163rd St, Bronx
+
+Store 7544500 - A & G Deli Grocery operates as a Open Store Superette establishment at 948 E 163rd St, Bronx, NY 104594209 (FIPS 36-5). Geographically precise at coordinates 40.8209,-73.896 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 5 full-time staff across 2 checkout lanes, yielding a sales density of $702.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & G Deli Grocery (942269)
+Location: 931 Fox St, Bronx
+
+Store 942269 - A & G Deli Grocery operates as a Open Store Superette establishment at 931 Fox St, Bronx, NY 104594338 (FIPS 36-5). Geographically precise at coordinates 40.8207,-73.894 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & G Food & Liquor (1508501)
+Location: 6945 S State St, Chicago
+
+Store 1508501 - A & G Food & Liquor operates as a Open Store Superette establishment at 6945 S State St, Chicago, IL 606374528 (FIPS 17-31). Geographically precise at coordinates 41.7676,-87.6249 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,456.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & G Market (771941)
+Location: 1849 E 21st St, Oakland
+
+Store 771941 - A & G Market operates as a Open Store Superette establishment at 1849 E 21st St, Oakland, CA 946064112 (FIPS 6-1). Geographically precise at coordinates 37.7916,-122.2365 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & G Market (1760721)
+Location: 2012 W Dartmouth St, Flint
+
+Store 1760721 - A & G Market operates as a Open Store Superette establishment at 2012 W Dartmouth St, Flint, MI 485042745 (FIPS 26-49). Geographically precise at coordinates 43.0421,-83.7282 (Geocoded to specific address), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,508.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & H Convenience (512921)
+Location: 334 Liberty St, Meriden
+
+Store 512921 - A & H Convenience operates as a Open Store Superette establishment at 334 Liberty St, Meriden, CT 64504509 (FIPS 9-9). Geographically precise at coordinates 41.5346,-72.7855 (Geocoded to specific address), this location generates $1,872,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 9 full-time staff across 1 checkout lanes, yielding a sales density of $1,872.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through J Polep Distribution Services (Supplier ID: 46101, Family ID: 20243) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & H Country Market (1487179)
+Location: 2398 County Road A, Spooner
+
+Store 1487179 - A & H Country Market operates as a Open Store Superette establishment at 2398 County Road A, Spooner, WI 548019134 (FIPS 55-13). Geographically precise at coordinates 45.9436,-92.1042 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & H Food Market (1817062)
+Location: 1946 Federal St, Philadelphia
+
+Store 1817062 - A & H Food Market operates as a Open Store Supermarket-Limited Assortment establishment at 1946 Federal St, Philadelphia, PA 191462917 (FIPS 42-101). Geographically precise at coordinates 39.9372,-75.1766 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 1000.0 square foot space. The operation employs 23 full-time staff across 2 checkout lanes, yielding a sales density of $5,200.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Limited Assortment segment.
+
+================================================================================
+STORE ANALYSIS: A & H Main Florence Grocery (7270432)
+Location: 2248 Main St, Buffalo
+
+Store 7270432 - A & H Main Florence Grocery operates as a Open Store Superette establishment at 2248 Main St, Buffalo, NY 142142333 (FIPS 36-29). Geographically precise at coordinates 42.9311,-78.8483 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 9 full-time staff across 2 checkout lanes, yielding a sales density of $832.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & I Grocery (2249696)
+Location: 549 Rodriquez Ave, Charlotte
+
+Store 2249696 - A & I Grocery operates as a Open Store Superette establishment at 549 Rodriquez Ave, Charlotte, TX 78011 (FIPS 48-13). Geographically precise at coordinates 28.8624,-98.7072 (Geocoded to specific address), this location generates $1,456,000 in annual sales ($1,000,001 to $1,500,000) from its 6000.0 square foot space. The operation employs 5 full-time staff across 1 checkout lanes, yielding a sales density of $242.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & J Food Market (773174)
+Location: 342 W 75th St, Chicago
+
+Store 773174 - A & J Food Market operates as a Open Store Superette establishment at 342 W 75th St, Chicago, IL 606213445 (FIPS 17-31). Geographically precise at coordinates 41.7581,-87.6338 (Geocoded to specific address), this location generates $1,144,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $572.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & J Grocery (7854120)
+Location: 2315 E Simcoe St, Lafayette
+
+Store 7854120 - A & J Grocery operates as a Open Store Superette establishment at 2315 E Simcoe St, Lafayette, LA 70501 (FIPS 22-55). Geographically precise at coordinates 30.2254,-91.9939 (Geocoded to specific address), this location generates $1,612,000 in annual sales ($1,500,001 to $2,000,000) from its 4000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $403.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & J Seabra Supermarkets (490546)
+Location: 64 Pacific St, Newark
+
+Store 490546 - A & J Seabra Supermarkets operates as a Open Store Supermarket-Conventional establishment at 64 Pacific St, Newark, NJ 71051619 (FIPS 34-13). Geographically precise at coordinates 40.7259,-74.1666 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 4000.0 square foot space. The operation employs 20 full-time staff across 4 checkout lanes, yielding a sales density of $910.00/sqft. Owned by Seabras Group Inc/NJ Div (Family ID: 30115) as part of a 11-25 Stores-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 80705, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & J Seabra Supermarkets (45904)
+Location: 839 W Sample Rd, Pompano Beach
+
+Store 45904 - A & J Seabra Supermarkets operates as a Open Store Supermarket-Conventional establishment at 839 W Sample Rd, Pompano Beach, FL 330642002 (FIPS 12-11). Geographically precise at coordinates 26.2761,-80.1348 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 20000.0 square foot space. The operation employs 56 full-time staff across 6 checkout lanes, yielding a sales density of $156.00/sqft. Owned by Seabras Group Inc/NJ Div (Family ID: 30115) as part of a 11-25 Stores-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 1034, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & J Seabras (802545)
+Location: 180 Schuyler Ave, Kearny
+
+Store 802545 - A & J Seabras operates as a Open Store Supermarket-Conventional establishment at 180 Schuyler Ave, Kearny, NJ 70323915 (FIPS 34-17). Geographically precise at coordinates 40.7553,-74.1449 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 15000.0 square foot space. The operation employs 45 full-time staff across 8 checkout lanes, yielding a sales density of $346.67/sqft. Owned by Seabras Group Inc/NJ Div (Family ID: 30115) as part of a 11-25 Stores-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 80705, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & J Seabras (7781)
+Location: 1132 Liberty Ave, Hillside
+
+Store 7781 - A & J Seabras operates as a Open Store Supermarket-Conventional establishment at 1132 Liberty Ave, Hillside, NJ 72052103 (FIPS 34-39). Geographically precise at coordinates 40.6925,-74.2367 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 9000.0 square foot space. The operation employs 23 full-time staff across 5 checkout lanes, yielding a sales density of $577.78/sqft. Owned by Seabras Group Inc/NJ Div (Family ID: 30115) as part of a 11-25 Stores-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 80705, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & J Select Market (128950)
+Location: 265 SW 2nd St, Stevenson
+
+Store 128950 - A & J Select Market operates as a Open Store Supermarket-Conventional establishment at 265 SW 2nd St, Stevenson, WA 986484226 (FIPS 53-59). Geographically precise at coordinates 45.6931,-121.8848 (Geocoded to specific address), this location generates $11,700,000 in annual sales ($8,000,001 to $12,000,000) from its 5000.0 square foot space. The operation employs 21 full-time staff across 8 checkout lanes, yielding a sales density of $2,340.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through U R M Stores Inc (Supplier ID: 20473, Family ID: 37410) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & L Deli Meat Market (728977)
+Location: 10202 37th Ave, Corona
+
+Store 728977 - A & L Deli Meat Market operates as a Open Store Superette establishment at 10202 37th Ave, Corona, NY 113681943 (FIPS 36-81). Geographically precise at coordinates 40.753,-73.8652 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Food Store (706961)
+Location: 1741 Mcshane Pl, New Orleans
+
+Store 706961 - A & M Food Store operates as a Open Store Superette establishment at 1741 Mcshane Pl, New Orleans, LA 701161434 (FIPS 22-71). Geographically precise at coordinates 29.9679,-90.0618 (Geocoded to specific address), this location generates $1,144,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $1,144.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Market (1572330)
+Location: 389 W Sherwood Ave, McFarland
+
+Store 1572330 - A & M Market operates as a Open Store Superette establishment at 389 W Sherwood Ave, McFarland, CA 932501521 (FIPS 6-29). Geographically precise at coordinates 35.6744,-119.2324 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $702.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Market (1416561)
+Location: 7717 Kearney Ave, Lamont
+
+Store 1416561 - A & M Market operates as a Open Store Superette establishment at 7717 Kearney Ave, Lamont, CA 932412401 (FIPS 6-29). Geographically precise at coordinates 35.2549,-118.9186 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 2000.0 square foot space. The operation employs 6 full-time staff across 1 checkout lanes, yielding a sales density of $702.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Market (525544)
+Location: 1774 82nd Ave, Oakland
+
+Store 525544 - A & M Market operates as a Open Store Superette establishment at 1774 82nd Ave, Oakland, CA 946212221 (FIPS 6-1). Geographically precise at coordinates 37.7582,-122.1741 (Geocoded to specific address), this location generates $1,560,000 in annual sales ($1,500,001 to $2,000,000) from its 2000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $780.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Market (936573)
+Location: 20510 Main St, Stratford
+
+Store 936573 - A & M Market operates as a Open Store Superette establishment at 20510 Main St, Stratford, CA 93266 (FIPS 6-31). Geographically precise at coordinates 36.1894,-119.8257 (Geocoded to specific address), this location generates $1,352,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 5 full-time staff across 2 checkout lanes, yielding a sales density of $1,352.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & M Marketplace (7873713)
+Location: 900 Rosa L Parks Blvd, Nashville
+
+Store 7873713 - A & M Marketplace operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 900 Rosa L Parks Blvd, Nashville, TN 372082600 (FIPS 47-37). Geographically precise at coordinates 36.1734,-86.7875 (Geocoded to specific address), this location generates $1,768,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 14 full-time staff across 3 checkout lanes, yielding a sales density of $1,768.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: A & P Market (388649)
+Location: 3816 Tongass Ave, Ketchikan
+
+Store 388649 - A & P Market operates as a Open Store Supermarket-Conventional establishment at 3816 Tongass Ave, Ketchikan, AK 999015641 (FIPS 2-130). Geographically precise at coordinates 55.3569,-131.695 (Geocoded to specific address), this location generates $13,000,000 in annual sales ($12,000,001 to $16,000,000) from its 15000.0 square foot space. The operation employs 107 full-time staff across 4 checkout lanes, yielding a sales density of $866.67/sqft. Owned by Alaskan & Proud Market (Family ID: 40285) as part of a 2-3 Stores-location network, the store sources inventory through United Natural Foods/Dist Ctr (Supplier ID: 406195, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & R Grocery (1740559)
+Location: 5910 92nd St, Elmhurst
+
+Store 1740559 - A & R Grocery operates as a Open Store Superette establishment at 5910 92nd St, Elmhurst, NY 113735553 (FIPS 36-81). Geographically precise at coordinates 40.7336,-73.8691 (Geocoded to specific address), this location generates $1,976,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,976.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Amcon Dist/L P Shanks (Supplier ID: 45166, Family ID: 14800) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & S Country Market (946954)
+Location: 201 N Main St, Carson
+
+Store 946954 - A & S Country Market operates as a Open Store Superette establishment at 201 N Main St, Carson, ND 585294000 (FIPS 38-37). Geographically precise at coordinates 46.4215,-101.5657 (Geocoded to specific address), this location generates $1,040,000 in annual sales ($1,000,001 to $1,500,000) from its 5000.0 square foot space. The operation employs 7 full-time staff across 2 checkout lanes, yielding a sales density of $208.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 19257, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (325911)
+Location: 3244 Southmost Rd, Brownsville
+
+Store 325911 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 3244 Southmost Rd, Brownsville, TX 785214858 (FIPS 48-61). Geographically precise at coordinates 25.903,-97.4569 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 10000.0 square foot space. The operation employs 17 full-time staff across 4 checkout lanes, yielding a sales density of $312.00/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (106951)
+Location: 2814 International Blvd, Brownsville
+
+Store 106951 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 2814 International Blvd, Brownsville, TX 785213122 (FIPS 48-61). Geographically precise at coordinates 25.9086,-97.4781 (Geocoded to specific address), this location generates $6,500,000 in annual sales ($6,000,001 to $8,000,000) from its 11000.0 square foot space. The operation employs 43 full-time staff across 6 checkout lanes, yielding a sales density of $590.91/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (619615)
+Location: 3831 Boca Chica Blvd, Brownsville
+
+Store 619615 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 3831 Boca Chica Blvd, Brownsville, TX 785214025 (FIPS 48-61). Geographically precise at coordinates 25.9172,-97.4573 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 10000.0 square foot space. The operation employs 16 full-time staff across 4 checkout lanes, yielding a sales density of $312.00/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (611222)
+Location: 384 Us Highway 281, Brownsville
+
+Store 611222 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 384 Us Highway 281, Brownsville, TX 785204424 (FIPS 48-61). Geographically precise at coordinates 25.9301,-97.5258 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 12000.0 square foot space. The operation employs 16 full-time staff across 4 checkout lanes, yielding a sales density of $303.33/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (3565559)
+Location: 860 S Sam Houston Blvd, San Benito
+
+Store 3565559 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 860 S Sam Houston Blvd, San Benito, TX 785863063 (FIPS 48-61). Geographically precise at coordinates 26.1255,-97.6375 (Geocoded to specific address), this location generates $5,200,000 in annual sales ($4,000,001 to $6,000,000) from its 11000.0 square foot space. The operation employs 31 full-time staff across 4 checkout lanes, yielding a sales density of $472.73/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (7954035)
+Location: 6214 Paredes Line Rd, Brownsville
+
+Store 7954035 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 6214 Paredes Line Rd, Brownsville, TX 785263532 (FIPS 48-61). Geographically precise at coordinates 25.9914,-97.4809 (Geocoded to specific address), this location generates $4,160,000 in annual sales ($4,000,001 to $6,000,000) from its 8000.0 square foot space. The operation employs 27 full-time staff across 4 checkout lanes, yielding a sales density of $520.00/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & V Lopez Supermarket (3788676)
+Location: 2302 Delia Ave, Brownsville
+
+Store 3788676 - A & V Lopez Supermarket operates as a Open Store Supermarket-Conventional establishment at 2302 Delia Ave, Brownsville, TX 785263613 (FIPS 48-61). Geographically precise at coordinates 25.9728,-97.4792 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 3000.0 square foot space. The operation employs 18 full-time staff across 4 checkout lanes, yielding a sales density of $1,040.00/sqft. Owned by A & V Lopez Inc (Family ID: 4205) as part of a 6-10 Stores-location network, the store sources inventory through Grocers Supply Co/Dist Ctr (Supplier ID: 8592, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A & W Market (1416575)
+Location: 1582 W Vernon Ave, Los Angeles
+
+Store 1416575 - A & W Market operates as a Open Store Superette establishment at 1582 W Vernon Ave, Los Angeles, CA 900621830 (FIPS 6-37). Geographically precise at coordinates 34.0037,-118.3063 (Geocoded to specific address), this location generates $1,300,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 10 full-time staff across 2 checkout lanes, yielding a sales density of $1,300.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A 1 Market (748601)
+Location: 3330 Peachtree Corners Cir Ste B, Peachtree Corners
+
+Store 748601 - A 1 Market operates as a Open Store Superette establishment at 3330 Peachtree Corners Cir Ste B, Peachtree Corners, GA 300923657 (FIPS 13-135). Geographically precise at coordinates 33.9447,-84.2508 (Geocoded to specific address), this location generates $1,820,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 4 full-time staff across 2 checkout lanes, yielding a sales density of $1,820.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through H T Hackney Co/Dist Ctr (Supplier ID: 2732, Family ID: 41880) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A A Market (1416584)
+Location: 667 Broderick St, San Francisco
+
+Store 1416584 - A A Market operates as a Open Store Superette establishment at 667 Broderick St, San Francisco, CA 941171411 (FIPS 6-75). Geographically precise at coordinates 37.7762,-122.4398 (Geocoded to specific address), this location generates $1,716,000 in annual sales ($1,500,001 to $2,000,000) from its 1000.0 square foot space. The operation employs 8 full-time staff across 1 checkout lanes, yielding a sales density of $1,716.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A Arakaki Store (749598)
+Location: 53 4142 Akoni Pule Hwy, Kapaau
+
+Store 749598 - A Arakaki Store operates as a Open Store Superette establishment at 53 4142 Akoni Pule Hwy, Kapaau, HI 96755 (FIPS 15-1). Geographically precise at coordinates 20.1314,-155.8849 (Geocoded to block group), this location generates $1,508,000 in annual sales ($1,500,001 to $2,000,000) from its 5000.0 square foot space. The operation employs 13 full-time staff across 2 checkout lanes, yielding a sales density of $301.60/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 26413, Family ID: 7820) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A C Market (121597)
+Location: 1145 Park Blvd, Orange Cove
+
+Store 121597 - A C Market operates as a Open Store Supermarket-Conventional establishment at 1145 Park Blvd, Orange Cove, CA 936462235 (FIPS 6-19). Geographically precise at coordinates 36.6246,-119.3199 (Geocoded to specific address), this location generates $3,120,000 in annual sales ($2,000,001 to $4,000,000) from its 10000.0 square foot space. The operation employs 17 full-time staff across 5 checkout lanes, yielding a sales density of $312.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through C & S Wholesale/Dist Ctr (Supplier ID: 206940, Family ID: 7820) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A Clean Plate Local Grocery (7593482)
+Location: 13 SE Birch Ave, Menahga
+
+Store 7593482 - A Clean Plate Local Grocery operates as a Open Store Supermarket-Natural/Gourmet Foods establishment at 13 SE Birch Ave, Menahga, MN 56464 (FIPS 27-159). Geographically precise at coordinates 46.7541,-95.0964 (Geocoded to specific address), this location generates $2,600,000 in annual sales ($2,000,001 to $4,000,000) from its 3000.0 square foot space. The operation employs 13 full-time staff across 1 checkout lanes, yielding a sales density of $866.67/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through UNFI/Dist Ctr (Supplier ID: 91583, Family ID: 10540) to maintain its position in the Grocery sector's Supermarket-Natural/Gourmet Foods segment.
+
+================================================================================
+STORE ANALYSIS: A Dong Supermarket (448672)
+Location: 9221 Bolsa Ave, Westminster
+
+Store 448672 - A Dong Supermarket operates as a Open Store Supermarket-Conventional establishment at 9221 Bolsa Ave, Westminster, CA 926835534 (FIPS 6-59). Geographically precise at coordinates 33.745,-117.9683 (Geocoded to specific address), this location generates $3,640,000 in annual sales ($2,000,001 to $4,000,000) from its 16000.0 square foot space. The operation employs 63 full-time staff across 7 checkout lanes, yielding a sales density of $227.50/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Supermarket-Conventional segment.
+
+================================================================================
+STORE ANALYSIS: A Food Market (7033790)
+Location: 510 N 13th St, Fort Pierce
+
+Store 7033790 - A Food Market operates as a Open Store Superette establishment at 510 N 13th St, Fort Pierce, FL 349508219 (FIPS 12-111). Geographically precise at coordinates 27.4531,-80.3373 (Geocoded to specific address), this location generates $1,404,000 in annual sales ($1,000,001 to $1,500,000) from its 1000.0 square foot space. The operation employs 4 full-time staff across 2 checkout lanes, yielding a sales density of $1,404.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A G Supermarket (732407)
+Location: 14705 Southern Blvd, Loxahatchee
+
+Store 732407 - A G Supermarket operates as a Open Store Superette establishment at 14705 Southern Blvd, Loxahatchee, FL 334709224 (FIPS 12-99). Geographically precise at coordinates 26.6828,-80.2776 (Geocoded to specific address), this location generates $1,664,000 in annual sales ($1,500,001 to $2,000,000) from its 4000.0 square foot space. The operation employs 8 full-time staff across 2 checkout lanes, yielding a sales density of $416.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through SuperValu/Dist Ctr (Supplier ID: 1034, Family ID: 10540) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
+STORE ANALYSIS: A Green Supermarket (7299829)
+Location: 1321 E Fletcher Ave, Tampa
+
+Store 7299829 - A Green Supermarket operates as a Open Store Superette establishment at 1321 E Fletcher Ave, Tampa, FL 336123629 (FIPS 12-57). Geographically precise at coordinates 28.0692,-82.4452 (Geocoded to specific address), this location generates $1,196,000 in annual sales ($1,000,001 to $1,500,000) from its 4000.0 square foot space. The operation employs 6 full-time staff across 2 checkout lanes, yielding a sales density of $299.00/sqft. Owned by Independent (Family ID: 99999) as part of a 1 Store-location network, the store sources inventory through Small Supplier (Supplier ID: 888888, Family ID: 88888) to maintain its position in the Grocery sector's Superette segment.
+
+================================================================================
