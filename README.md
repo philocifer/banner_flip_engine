@@ -57,3 +57,5 @@ Weaknesses:
 1. Low Factual Correctness (0.5185) - Generated answers contain factual errors despite good context
 2. Poor Entity Recall (0.4353) - Struggles to identify/store key entities (store names, locations)
 3. Noise Sensitivity (0.5952) - Vulnerable to irrelevant/conflicting information
+### Fine-Tuning Open-Source Embeddings
+https://huggingface.co/philocifer/banner-flip-arctic-embed-l
