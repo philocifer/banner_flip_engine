@@ -80,9 +80,12 @@ def load_agent():
         model="gpt-4o-mini"
     )
     
+    # Configure engine for thread-safe in-memory database
     engine = sa.create_engine(
-        "sqlite:///:memory:",  # Changed from file-based to in-memory database
-        poolclass=sa.pool.SingletonThreadPool
+        "sqlite:///:memory:?cache=shared",
+        poolclass=sa.pool.QueuePool,  # Use QueuePool for thread safety
+        connect_args={'check_same_thread': False},  # Allow cross-thread connections
+        echo=True
     )
 
     # Add this distance function to SQL
@@ -95,11 +98,14 @@ def load_agent():
     table_name = 'competitor_stores'
     
     df = pd.read_json(json_file)
-    
-    with engine.connect() as conn:
-        if not conn.dialect.has_table(conn, table_name):
-            df.to_sql(table_name, conn, index=False, if_exists='replace')
-            conn.commit()
+
+    with engine.begin() as conn:
+        df.to_sql(
+            table_name, 
+            conn, 
+            index=False, 
+            if_exists='replace'
+        )
 
     db = SQLDatabase(engine)
     toolkit = SQLDatabaseToolkit(
