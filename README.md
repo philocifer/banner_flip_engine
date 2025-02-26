@@ -59,3 +59,27 @@ Weaknesses:
 3. Noise Sensitivity (0.5952) - Vulnerable to irrelevant/conflicting information
 ### Fine-Tuning Open-Source Embeddings
 https://huggingface.co/philocifer/banner-flip-arctic-embed-l
+### Assessing Performance of Fine-Tuned Embeddings
+| Metric                      | Score   |
+|-----------------------------|---------|
+| Context Recall              | 0.9175  |
+| Faithfulness                | 0.8203  |
+| Factual Correctness         | 0.7225  |
+| Answer Relevancy            | 0.9669  |
+| Context Entity Recall       | 0.5711  |
+| Noise Sensitivity Relevant  | 0.0000  |
+
+#### Evaluation Comparison
+Significant Improvements
+- Factual Correctness surged 39% (0.52 → 0.72) - Substantially more reliable answers
+- Context Recall jumped 16% (0.79 → 0.92) - Better retrieval of relevant information
+- Answer Relevancy reached near-perfect 0.97 (+7%) - Sharper focus on query intent
+
+Trade-offs
+- Faithfulness dipped 6% (0.87 → 0.82) - Slightly less strict adherence to source context despite better facts
+
+Notable Changes
+- Noise Sensitivity collapsed to 0.00 (-100%) - Complete immunity to irrelevant information (requires verification)
+- Entity Recognition improved 31% (0.44 → 0.57) - Remains a relative weakness in the system
+
+In the second half of the course, I will focus more on improving the SQL agent as it is much better at handling structured data in large volumes.

@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 load_dotenv()
 
-def load_agent(embeddings=None):
+def load_agent(embeddings=None, embedding_dimension=1536):
     if embeddings is None:
         embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
     
@@ -31,7 +31,7 @@ def load_agent(embeddings=None):
     client = QdrantClient(":memory:")
     client.create_collection(
         collection_name="competitor_stores",
-        vectors_config=VectorParams(size=1536, distance=Distance.COSINE),
+        vectors_config=VectorParams(size=embedding_dimension, distance=Distance.COSINE),
     )
     
     vector_store = QdrantVectorStore(
