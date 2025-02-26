@@ -35,4 +35,25 @@ Our business devlopment team purchased competitor data from a vendor that specia
 When generating semantic content from the structured data, I put a seperator ("="*80) between the store entries, which I used for chunking, making each store a chunk (all are under 1000 tokens). I found this to be effective, particularly with summarization, but is unable to handle query's like "How many stores are in Florida?", which the SQL agent handles with ease.
 
 For creating store profiles, I used US Census Bureau's API service to get vast array of demographic data. There are many business profiling API providers, but I did not want to incurr those costs for this prototype project. Unfortunately there are many gaps in the free census data, so the resulting profiles are generally not useful... but it shows that this approach does work.
+### Ene-to-End Prototype
+https://huggingface.co/spaces/philocifer/banner_flip_engine_prototype
+### Golden Test Dataset
 
+| Metric                      | Score   |
+|-----------------------------|---------|
+| Context Recall              | 0.7867  |
+| Faithfulness                | 0.8726  |
+| Factual Correctness         | 0.5185  |
+| Answer Relevancy            | 0.9069  |
+| Context Entity Recall       | 0.4353  |
+| Noise Sensitivity Relevant  | 0.5952  |
+
+Strengths:
+1. High Answer Relevancy (0.9069) - Responses stay focused on user queries
+2. Strong Faithfulness (0.8726) - Answers remain grounded in provided context
+3. Good Context Recall (0.7867) - Retrieves most relevant context chunks
+
+Weaknesses:
+1. Low Factual Correctness (0.5185) - Generated answers contain factual errors despite good context
+2. Poor Entity Recall (0.4353) - Struggles to identify/store key entities (store names, locations)
+3. Noise Sensitivity (0.5952) - Vulnerable to irrelevant/conflicting information

@@ -21,6 +21,8 @@ dependencies = [
     "openai>=1.63.2",
     "pandas>=2.2.3",
     "python-dotenv>=1.0.1",
+    "ragas>=0.2.13",
+    "rapidfuzz>=3.12.1",
     "sentence-transformers>=3.4.1",
     "websockets>=15.0",
 ]

@@ -81,7 +81,7 @@ def load_agent():
     )
     
     engine = sa.create_engine(
-        "sqlite:///competitor_stores.db",
+        "sqlite:///:memory:",  # Changed from file-based to in-memory database
         poolclass=sa.pool.SingletonThreadPool
     )
 
@@ -91,7 +91,7 @@ def load_agent():
         # Add deterministic flag for better query optimization
         dbapi_connection.create_function("distance", 4, calculate_distance, deterministic=True)
 
-    json_file = 'data/competitor_store_19k.json'
+    json_file = 'data/competitor_store_200.json'
     table_name = 'competitor_stores'
     
     df = pd.read_json(json_file)

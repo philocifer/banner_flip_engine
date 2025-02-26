@@ -14,7 +14,10 @@ from tqdm import tqdm
 
 load_dotenv()
 
-def load_agent():
+def load_agent(embeddings=None):
+    if embeddings is None:
+        embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+    
     loader = TextLoader('data/enhanced_store_data_200.txt')
     docs = loader.load()
     text_splitter = CharacterTextSplitter(
@@ -24,8 +27,6 @@ def load_agent():
         is_separator_regex=False
     )
     split_documents = text_splitter.split_documents(docs)
-    
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
     
     client = QdrantClient(":memory:")
     client.create_collection(

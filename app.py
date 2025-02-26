@@ -7,7 +7,7 @@ from typing import Annotated, TypedDict, List
 from langchain_core.messages import HumanMessage
 import os
 from dotenv import load_dotenv
-# from sql_agent import sql_agent_tool
+from sql_agent import sql_agent_tool
 from rag_agent import rag_agent_tool
 from profile_agent import profile_agent_tool
 from langgraph.graph.message import add_messages
@@ -20,7 +20,7 @@ def load_app():
     tivly_tool = TavilySearchResults(max_results=5)
     
     tool_belt = [
-        # sql_agent_tool,
+        sql_agent_tool,
         rag_agent_tool,
         profile_agent_tool,
         tivly_tool
