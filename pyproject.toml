@@ -22,4 +22,5 @@ dependencies = [
     "pandas>=2.2.3",
     "python-dotenv>=1.0.1",
     "sentence-transformers>=3.4.1",
+    "websockets>=15.0",
 ]
