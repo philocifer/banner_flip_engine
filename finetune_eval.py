@@ -4,6 +4,7 @@ from synthetic_data_gen import generate_synthetic_data
 from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 import json
+import os
 
 load_dotenv()
 
@@ -22,8 +23,9 @@ finetuned_result = run_ragas_evaluation(finetuned_rag_agent, dataset)
 print(f"Fine-tuned RAGAS Evaluation Result: {finetuned_result}")
 
 print("Saving fine-tuned RAGAS evaluation result...")
-with open("ragas_eval/finetuned_result.json", "w") as f:
-    json.dump(finetuned_result, f)
+os.makedirs("ragas_eval", exist_ok=True)
+with open("ragas_eval/finetuned_result.txt", "w") as f:
+    f.write(str(finetuned_result))
 
 print("Running base RAGAS evaluation...")
 base_result = run_ragas_evaluation(rag_agent, dataset)
@@ -31,6 +33,6 @@ base_result = run_ragas_evaluation(rag_agent, dataset)
 print(f"Base RAGAS Evaluation Result: {base_result}")
 
 print("Saving base RAGAS evaluation result...")
-with open("ragas_eval/base_result.json", "w") as f:
-    json.dump(base_result, f)
+with open("ragas_eval/base_result.txt", "w") as f:
+    f.write(str(base_result))
 

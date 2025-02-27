@@ -7,16 +7,18 @@ sdk: docker
 pinned: false
 short_description: Protype of Banner Flip Engine for AIE5 Midterm
 ---
+# Loom Video
+https://www.loom.com/share/207c807c11ca45fbbdba4bf19fc444cd?sid=54d3eff0-152c-46a6-ac7a-85077e2d93a4
 # Banner Flip Engine
 ## AIE5 Midterm Project
 ## By Lewis Tribble
 ### Problem and Audience
 To counter revenue loss from retail grocery store closures and drive growth, my company needs to quickly and cost-effectively expand its store network by converting competitor stores into banner flip opportunities.
 
-The term **banner flip** refers a competitor store becoming a Save A Lot store and sourcing their inventory from our distribution centers.  Acquiring competitor stores through banner flips is a faster and more cost-effective growth strategy than building new stores. Our store count has fallen 25% over the last 5 years, with revenue falling at a comparable rate. The business development team has been working on finding banner flip opportunities, but it is an arduous process connecting information from various sources, particularly connecting a store location with the owner/decion makers and their contact information.
+The term **banner flip** refers to a competitor store becoming a Save A Lot store and sourcing their inventory from our distribution centers.  Acquiring competitor stores through banner flips is a faster and more cost-effective growth strategy than building new stores. Our store count has fallen 25% over the last 5 years, with revenue falling at a comparable rate. The business development team has been working on finding banner flip opportunities, but it is an arduous process connecting information from various sources, particularly connecting a store location with the owner/decision makers and their contact information.
 
 ### Proposed Solution
-An AI-powered Banner Flip Engine chatbot will identify and prioritize competitor stores within the "flip zone" by analyzing various factors such as local market conditions and financial trends. It maps store-to-owner relationships by providing accurate contact information for store owners and decision-makers. The engine ranks stores by their conversion likelihood based on financial signals, lease expiration timelines, and competitive pressures. It also generates tailored outreach materials for regional sales teams, including owner profiles and personalized value propositions for flipping. As a stretch goal, it could offer a self-service research tool where compeitor store owners can input their own store data and receive a personalized report on the benefits of switching banners.
+An AI-powered Banner Flip Engine chatbot will identify and prioritize competitor stores within the "flip zone" by analyzing various factors such as local market conditions and financial trends. It maps store-to-owner relationships by providing accurate contact information for store owners and decision-makers. The engine ranks stores by their conversion likelihood based on financial signals, lease expiration timelines, and competitive pressures. It also generates tailored outreach materials for regional sales teams, including owner profiles and personalized value propositions for flipping. As a stretch goal, it could offer a self-service research tool where competitor store owners can input their own store data and receive a personalized report on the benefits of switching banners.
 
 For the midterm assignment, the solution is focused on answering questions about competitor stores and generating store profiles that provide demographic facts with valuable insights. These capabilities are the basis for the Banner Flip Engine vision.  
 
